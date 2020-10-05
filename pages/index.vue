@@ -1,6 +1,6 @@
 <template>
   <div class="bg-dark">
-    <div class="container-fluid bg-dark">
+    <div class="container-fluid bg-dark" style="height: 100vh">
       <div class="container py-5 bg-dark">
         <div class="mt-5">
           <h1 class="main-title mb-3">
@@ -13,23 +13,12 @@
               <i> Developed by Team Blklight</i>
             </span>
           </p>
-        </div>
-      </div>
-    </div>
 
-    <div class="container">
-      <div class="">
-        <div class="card-body">
-          <iframe
-            src="https://docs.google.com/forms/d/e/1FAIpQLSfR4VX9BlNrlxaplAqoRnSs4wfUqNVAa8ODBWCh6gbYdlmRzA/viewform?embedded=true"
-            width="100%"
-            height="1450"
-            frameborder="0"
-            marginheight="0"
-            marginwidth="0"
-          >
-            Carregando…
-          </iframe>
+          <h2 class="exo-font mt-5">
+            <span class="marker marker-teal marker-tag">
+              <strong> Outubro em andamento...</strong>
+            </span>
+          </h2>
         </div>
       </div>
     </div>
